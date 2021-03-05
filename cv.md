@@ -15,3 +15,12 @@ My goal is to again knowledge and become a junior in order to understand the dep
 * Html
 * CSS 
 ***
+#### Code examples:\par
+```
+function monkeyCount(n) {
+  let result =[]\par
+  for (let i=1; i<=n; i++) result.push(i)
+  return result
+}
+```
+***
