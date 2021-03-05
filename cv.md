@@ -24,3 +24,9 @@ function monkeyCount(n) {
 }
 ```
 ***
+#### Education:\par
+* 2012-2017 Military Space Academy. A.F. Mozhaisky, St. Petersburg
+***
+#### English:\par
+* English level A1-A2
+}
