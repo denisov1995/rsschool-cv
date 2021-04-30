@@ -69,6 +69,11 @@ li {
     padding: 30px 20px;
 }
 
+.work-example {
+    background-color: rgb(194, 228, 228);
+    padding: 30px 20px;
+}
+
 .code-example-title {
     font-size: 20px;
     font-style: italic;
@@ -76,7 +81,7 @@ li {
 }
 
 .education {
-    background-color: rgb(194, 228, 228);
+    background-color: rgb(163, 230, 230);
     padding: 30px 20px;
 }
 
@@ -87,7 +92,7 @@ li {
 }
 
 .english {
-    background-color: rgb(163, 230, 230);
+    background-color: rgb(194, 228, 228);
     padding: 30px 20px;
 }
 
